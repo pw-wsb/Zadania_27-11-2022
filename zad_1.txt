@@ -1,0 +1,38 @@
+LISTA NR. 1 – 27.11.2022
+Patryk Woźniak
+(nr. Albumu: 76007)
+
+I GRUPA DANYCH
+
+Inne niż biznesowe: 
+Imie i nazwisko
+
+Wewnętrzne:
+ID pracownika, Dane biometryczne
+
+Publiczne:
+-
+
+Ogólne:
+-
+
+Poufne: 
+Numer karty debetowej
+
+
+II GRUPA DANYCH
+
+Inne niż biznesowe: 
+Imie i nazwisko, zawód
+
+Wewnętrzne:
+-
+
+Publiczne:
+Nazwa stanowiska
+
+Ogólne:
+-
+
+Poufne: 
+Historia choroby
